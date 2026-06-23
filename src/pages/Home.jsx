@@ -43,7 +43,7 @@ export default function Home() {
         <div className="buttons">
 
           <a
-            href="/resume.pdf"
+            href="/ShrutiPatnaikResume.pdf"
             target="_blank"
             className="btn resume"
           >
