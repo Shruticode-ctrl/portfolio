@@ -24,7 +24,7 @@ export default function Projects() {
             </h2>
 
             <p className="project-subtitle">
-              Property Listing App (Airbnb-inspired)
+             Full-Stack Travel Listing Web Application 
             </p>
 
             <p>
@@ -39,7 +39,7 @@ export default function Projects() {
             </p>
 
             <a
-              href="https://major-project-w65u.onrender.com/listings"
+              href="https://wanderlust-1-l3k4.onrender.com/listingss"
               target="_blank"
               className="project-btn"
             >
@@ -56,26 +56,26 @@ export default function Projects() {
             </div>
 
             <h2>
-              TradeView
+              FinFlow 
             </h2>
 
             <p className="project-subtitle">
-              Stock Trading Dashboard
+               Personal Finance Management Application
             </p>
 
             <p>
-              Zerodha-inspired stock trading dashboard
-              with routing, reusable components and
-              responsive UI.
+             FinFlow – a personal finance and budgeting application 
+              that helps users manage expenses, track income,
+              and plan monthly budgets 
             </p>
 
             <p className="tech">
               React.js • JavaScript • HTML • CSS •
-              Node.js • MongoDB
+              Node.js • MongoDB •   ExpressJS
             </p>
 
             <a
-              href="https://zerodha-clone-5w83.vercel.app/"
+              href="https://finflow-web-ivory.vercel.app/"
               target="_blank"
               className="project-btn"
             >
@@ -92,24 +92,25 @@ export default function Projects() {
             </div>
 
             <h2>
-              Spotify Clone
+              Netflix 
             </h2>
 
             <p className="project-subtitle">
-              Music Streaming UI Clone
+              Netflix UI Clone 
             </p>
 
             <p>
-              Modern Spotify-inspired music streaming
-              frontend with responsive UI and clean design.
+              A responsive front-end project
+              replicating Netflix’s interface with modern layouts,
+              reusable components, and smooth user experience.
             </p>
 
             <p className="tech">
-              React.js • CSS • JavaScript
+              • React.js   • TailwindCSS  • HTML
             </p>
 
             <a
-              href="https://spotifyclone-sandy-three.vercel.app"
+              href="https://netflix-psi-sooty.vercel.app/"
               target="_blank"
               className="project-btn"
             >
