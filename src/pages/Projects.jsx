@@ -39,7 +39,7 @@ export default function Projects() {
             </p>
 
             <a
-              href="https://wanderlust-1-l3k4.onrender.com/listingss"
+              href="https://wanderlust-1-l3k4.onrender.com/listings"
               target="_blank"
               className="project-btn"
             >
