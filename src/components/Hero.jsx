@@ -37,7 +37,7 @@ export default function Hero() {
         <div className="buttons">
           {/* Resume */}
          <a
-  href="/resume.pdf"
+  href="https://drive.google.com/file/d/1HBmdytIlQpdSjRXwzVLqnuoqRYqSbjm9/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="btn resume"

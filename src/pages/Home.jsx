@@ -42,13 +42,14 @@ export default function Home() {
 
         <div className="buttons">
 
-          <a
-            href="/ShrutiPatnaik.Resume.pdf"
-            target="_blank"
-            className="btn resume"
-          >
-            📄 Resume
-          </a>
+         <a
+  href="https://drive.google.com/file/d/15A1OI5yH72yoaTNG6Riy5ThrClkUqu1B/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn resume"
+>
+  📄 Resume
+</a>
 
           <a
             href="https://github.com/Shruticode-ctrl"

@@ -12,6 +12,76 @@ export default function Projects() {
 
         <div className="project-container">
 
+          {/* SigmaGPT */}
+<div className="project-card">
+
+  <div className="project-icon">
+    🤖
+  </div>
+
+  <h2>
+    SigmaGPT
+  </h2>
+
+  <p className="project-subtitle">
+    AI Chat Application
+  </p>
+
+  <p>
+    Full-stack AI chat application powered by OpenAI API
+    with secure backend proxy, responsive chat UI,
+    conversation history and real-time AI responses.
+  </p>
+
+  <p className="tech">
+    React.js (Vite) • Node.js • Express.js • OpenAI API • CSS
+  </p>
+
+  <a
+    href="https://sigma-gpt-ruddy-three.vercel.app/"
+    target="_blank"
+    className="project-btn"
+  >
+    View Project →
+  </a>
+
+</div>
+
+{/* FinFlow */}
+<div className="project-card">
+
+  <div className="project-icon">
+    💰
+  </div>
+
+  <h2>
+    FinFlow
+  </h2>
+
+  <p className="project-subtitle">
+    Personal Finance Management Platform
+  </p>
+
+  <p>
+    Personal finance platform with JWT authentication,
+    income & expense tracking, budget planning,
+    financial goal monitoring and REST APIs.
+  </p>
+
+  <p className="tech">
+    React.js • Node.js • Express.js • MongoDB Atlas • JWT • REST APIs
+  </p>
+
+  <a
+    href="https://finflow-web-ivory.vercel.app/login"
+    target="_blank"
+    className="project-btn"
+  >
+    View Project →
+  </a>
+
+</div>
+
           {/* Wanderlust */}
           <div className="project-card">
 
@@ -48,6 +118,7 @@ export default function Projects() {
 
           </div>
 
+<<<<<<< HEAD
           {/* TradeView */}
           <div className="project-card">
 
@@ -83,6 +154,9 @@ export default function Projects() {
             </a>
 
           </div>
+=======
+          
+>>>>>>> 013ec99 (Update portfolio projects and resume)
 
           {/* Spotify Clone */}
           <div className="project-card">
