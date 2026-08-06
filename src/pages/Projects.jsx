@@ -118,45 +118,7 @@ export default function Projects() {
 
           </div>
 
-<<<<<<< HEAD
-          {/* TradeView */}
-          <div className="project-card">
-
-            <div className="project-icon">
-              📈
-            </div>
-
-            <h2>
-              FinFlow 
-            </h2>
-
-            <p className="project-subtitle">
-               Personal Finance Management Application
-            </p>
-
-            <p>
-             FinFlow – a personal finance and budgeting application 
-              that helps users manage expenses, track income,
-              and plan monthly budgets 
-            </p>
-
-            <p className="tech">
-              React.js • JavaScript • HTML • CSS •
-              Node.js • MongoDB •   ExpressJS
-            </p>
-
-            <a
-              href="https://finflow-web-ivory.vercel.app/"
-              target="_blank"
-              className="project-btn"
-            >
-              View Project →
-            </a>
-
-          </div>
-=======
           
->>>>>>> 013ec99 (Update portfolio projects and resume)
 
           {/* Spotify Clone */}
           <div className="project-card">
